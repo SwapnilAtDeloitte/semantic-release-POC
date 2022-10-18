@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.0.1...v1.1.0) (2022-10-18)
+
+
+### Features
+
+* **testfeat:** test feat message ([3d5eb96](https://github.com/SwapnilAtDeloitte/semantic-release-POC/commit/3d5eb96b5abfb04423c3aaa763a57576825119a8))
+
 ## [1.0.1](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.0.0...v1.0.1) (2022-10-18)
 
 
