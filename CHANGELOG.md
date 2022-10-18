@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.0.0...v1.0.1) (2022-10-18)
+
+
+### Bug Fixes
+
+* **testfix:** test fix message ([2242441](https://github.com/SwapnilAtDeloitte/semantic-release-POC/commit/224244187f63c8e8501dd6260dc727e72016949e))
+
 # 1.0.0 (2022-10-18)
 
 
