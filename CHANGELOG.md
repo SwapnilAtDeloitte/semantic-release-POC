@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.1.1...v1.1.2) (2022-10-19)
+
+
+### Performance Improvements
+
+* **goal tracker:** Implemented goal tracker application ([c419899](https://github.com/SwapnilAtDeloitte/semantic-release-POC/commit/c4198996b72de1347a497ed06ce9e1b2c7a67ccd))
+
 ## [1.1.1](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.1.0...v1.1.1) (2022-10-19)
 
 
