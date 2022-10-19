@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.1.0...v1.1.1) (2022-10-19)
+
+
+### Performance Improvements
+
+* **perftest:** perf test message ([ff91452](https://github.com/SwapnilAtDeloitte/semantic-release-POC/commit/ff914525f5c74af04a39164c1542c4a089850e47))
+
 # [1.1.0](https://github.com/SwapnilAtDeloitte/semantic-release-POC/compare/v1.0.1...v1.1.0) (2022-10-18)
 
 
